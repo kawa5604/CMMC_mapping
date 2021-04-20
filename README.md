@@ -1,4 +1,4 @@
-# CMMC_mapping
+# CMMC control mapping
 CMMC -- NIST SP 800-171 -- NIST SP 800-53 mapping 
 
 A simple excel file that maps CMMC -> NIST 800-171 <-> NIST 800-53 for reference
